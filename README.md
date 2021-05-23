@@ -47,5 +47,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ##
 
-- [Solucao professor Douglas]url(https://github.com/mrdouglasmorais/afya-turma02-aula03)
+- [Solucao professor Douglas](https://github.com/mrdouglasmorais/afya-turma02-aula03)
 
